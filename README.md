@@ -1,1 +1,1 @@
-# my-react-ts-mui-boilerplate
+# Home Finance Management Application
