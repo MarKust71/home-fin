@@ -59,6 +59,7 @@
     "react-hooks/exhaustive-deps": ["error", { "additionalHooks": "(useMemoOne)" }],
     "camelcase": 2,
     "prefer-destructuring": 2,
-    "no-nested-ternary": 2
+    "no-nested-ternary": 2,
+    "newline-before-return": "warn"
   }
 }
